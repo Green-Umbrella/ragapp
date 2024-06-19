@@ -1,5 +1,11 @@
 # ragbox
 
+## 0.0.10
+
+### Patch Changes
+
+- 4f178a6: Auto-submit forms on focus lost, clarified start up and improved UX for uploading files.
+
 ## 0.0.9
 
 ### Patch Changes
